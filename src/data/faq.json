@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is HireBuddy?",
+    "answer": "HireBuddy is a job portal application that allows companies to post job listings and candidates to apply for jobs."
+  },
+  {
+    "question": "How can I create a job listing on HireBuddy?",
+    "answer": "To create a job listing on HireBuddy, you need to sign in as a company and navigate to the 'Post a Job' section. Fill out the job details form and submit it for review."
+  },
+  {
+    "question": "How do I apply for a job on HireBuddy?",
+    "answer": "To apply for a job, you need to sign in as a candidate, browse the job listings, and click on the 'Apply Now' button for the job you're interested in. Follow the instructions to submit your application."
+  },
+  {
+    "question": "Can I edit or delete my job listings?",
+    "answer": "Yes, as a company, you can edit or delete your job listings. Go to your job dashboard, find the listing you want to modify, and use the provided options to make changes or remove the listing."
+  },
+  {
+    "question": "How can I track my job applications?",
+    "answer": "Candidates can track their job applications by accessing their profile dashboard. Here, you will find the status of your applications and any updates from employers."
+  },
+  {
+    "question": "What information do I need to provide when posting a job?",
+    "answer": "When posting a job, you need to provide information such as job title, description, location, required qualifications, and application deadline. You may also include company details and contact information."
+  },
+  {
+    "question": "Is there a limit to the number of job listings I can post?",
+    "answer": "There is no limit to the number of job listings a company can post on HireBuddy. However, we recommend keeping listings up-to-date and relevant to attract suitable candidates."
+  },
+  {
+    "question": "How can I contact support if I have issues with my account?",
+    "answer": "If you encounter any issues with your account, you can contact HireBuddy support through the 'Help' section of the website. You can submit a support request or use the provided contact information to get assistance."
+  }
+]
